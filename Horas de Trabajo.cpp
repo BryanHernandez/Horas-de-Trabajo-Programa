@@ -1,14 +1,9 @@
 #include <iostream>
 #include <cstdlib>
 #include <stdlib.h>
-
 using namespace std;
-
 int main()
 {
-
-
-
     int Horas, Minutos, Segundos,
         Horas2, Minutos2, Segundos2,
         HorasTotales, MinutosTotales, SegundosTotales;
