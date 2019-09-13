@@ -8,13 +8,11 @@ int main()
 {
 
 
- //Declaración de variables
+
     int Horas, Minutos, Segundos,
         Horas2, Minutos2, Segundos2,
         HorasTotales, MinutosTotales, SegundosTotales;
-    char p;
-
-    //Entrada de datos
+    char p;//Puntos
 
 	cout << " Ingrese su hora de entrada (HH:MM:SS) en formato 24 hrs:" << endl;
 	cin >> Horas >> p >> Minutos  >> p >> Segundos;
